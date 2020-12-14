@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.weather.test.WeatherTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-14T11:20:38" hostname="DESKTOP-KELSQJ5" time="2.5">
+  <properties/>
+  <testcase name="getStatusCode200" classname="ru.weather.test.WeatherTest" time="2.5"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
