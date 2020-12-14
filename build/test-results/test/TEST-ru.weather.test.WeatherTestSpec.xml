@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.weather.test.WeatherTestSpec" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-14T12:57:16" hostname="DESKTOP-KELSQJ5" time="2.564">
+  <properties/>
+  <testcase name="getStatusCode200 [city: New York, #0]" classname="ru.weather.test.WeatherTestSpec" time="1.664"/>
+  <testcase name="getStatusCode200 [city: Moscow, #1]" classname="ru.weather.test.WeatherTestSpec" time="0.442"/>
+  <testcase name="getStatusCode200 [city: London, #2]" classname="ru.weather.test.WeatherTestSpec" time="0.449"/>
+  <testcase name="getStatusCode200" classname="ru.weather.test.WeatherTestSpec" time="2.579"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
