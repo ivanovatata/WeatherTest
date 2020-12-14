@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.weather.test.WeatherTestSpec" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-14T12:57:16" hostname="DESKTOP-KELSQJ5" time="2.564">
+<testsuite name="ru.weather.test.WeatherTestSpec" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-14T15:29:31" hostname="DESKTOP-KELSQJ5" time="3.694">
   <properties/>
-  <testcase name="getStatusCode200 [city: New York, #0]" classname="ru.weather.test.WeatherTestSpec" time="1.664"/>
-  <testcase name="getStatusCode200 [city: Moscow, #1]" classname="ru.weather.test.WeatherTestSpec" time="0.442"/>
-  <testcase name="getStatusCode200 [city: London, #2]" classname="ru.weather.test.WeatherTestSpec" time="0.449"/>
-  <testcase name="getStatusCode200" classname="ru.weather.test.WeatherTestSpec" time="2.579"/>
+  <testcase name="Test to validate status code 200 historical data [city: New York, historicalDate: 2018-12-31, interval: 12, #0]" classname="ru.weather.test.WeatherTestSpec" time="2.733"/>
+  <testcase name="Test to validate status code 200 historical data [city: Moscow, historicalDate: 2018-12-31, interval: 12, #1]" classname="ru.weather.test.WeatherTestSpec" time="0.444"/>
+  <testcase name="Test to validate status code 200 historical data [city: London, historicalDate: 2018-12-31, interval: 12, #2]" classname="ru.weather.test.WeatherTestSpec" time="0.505"/>
+  <testcase name="Test to validate status code 200 historical data" classname="ru.weather.test.WeatherTestSpec" time="3.705"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
